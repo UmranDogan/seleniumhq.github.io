@@ -27,6 +27,6 @@ vertraut zu machen.
 ## Grid
 
 Sehr bald nachdem Du die ersten WebDriver Tests erstellt hast, wirst Du Dir 
-wünschen Deine Tests auf unterscchen Browsern und Betriebssystemkombinationen
+wünschen Deine Tests auf unterschiedlichen Browsern und Betriebssystemkombinationen
 auszuführen. Das ist der Moment an dem _[Grid]({{< ref "/grid/_index.md" >}})_ ins 
 Spiel kommt.
